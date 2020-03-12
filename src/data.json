@@ -1,0 +1,87 @@
+{
+"profiles":[
+    {
+    "basics":{
+        "name":"niha",
+        "email" :"niha@gmail.com",
+        "mobile" :"8794557457"
+    },
+    "education":[
+        {
+            "degree":"ssc",
+            "percentage":"90",
+         "institute":"nagarjuna public school"
+        },
+        {
+            "degree":"intermediate-MPC",
+            "percentage":"95",
+         "institute":"narayana junior college"
+        }, {
+            "degree":"btech-CSE",
+            "percentage":"75",
+         "institute":"vvit"
+        }
+         ],
+         "skills":[
+            {
+                "type":"Programming Languages",
+                "values":["C","C++","Python","Java"]
+            },
+            {
+                "type":"Web Technologies",
+                "values":["HTML","CSS"]
+            },
+            {
+                "type":"Frameworks & Libraries",
+                "values":["ReactJS"]
+            },
+            {
+                "type":"Operating Systems",
+                "values":["Windows","Linux"]
+            }
+        ]
+    },
+    {
+        "basics":{
+            "name":"mahi",
+            "email" :"mahi@gmail.com",
+            "mobile" :"6300849277"
+        },
+        "education":[
+            {
+                "degree":"ssc",
+                "percentage":"98",
+             "institute":"kennedy public school"
+            },
+            {
+                "degree":"intermediate-MEC",
+                "percentage":"98",
+             "institute":"narayana junior college"
+            }, {
+                "degree":"BA-English",
+                "percentage":"85",
+             "institute":"womens college"
+            }
+        ],
+        "skills":[
+            {
+                "type":"Programming Languages",
+                "values":["C","C++","Python","Java"]
+            },
+            {
+                "type":"Web Technologies",
+                "values":["HTML","CSS"]
+            },
+            {
+                "type":"Frameworks & Libraries",
+                "values":["ReactJS"]
+            },
+            {
+                "type":"Operating Systems",
+                "values":["Windows","Linux"]
+            }
+        ]
+    }
+]
+
+}

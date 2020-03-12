@@ -1,0 +1,47 @@
+.parent{
+  display: flex;
+  justify-content: center;
+ 
+}
+.child{
+  width:20%;
+  border: 1px solid pink;
+  padding:1%;
+  margin:1%;
+  box-shadow: 0px 8px 8px -8px red;
+  text-align: center;
+  
+}
+.child img{
+  width:50%;
+  background-color: blue;
+ 
+}
+.link{
+  text-decoration: none;
+}
+.btn{
+  background-color: blue;
+  padding: 1%;
+  color:pink;
+text-decoration: none;
+display:block;
+}
+.child2{
+  width:75%;
+  border: 1px solid pink;
+  padding:1%;
+  margin:1%;
+  box-shadow: 0px 8px 8px -8px red;
+  text-decoration: underline;
+   
+}
+.skill{
+  margin:0.5%;
+  padding:0.5%;
+  color: yellowgreen;
+  box-shadow: 0px 8px 8px -8px red;
+  color:rgb(0, 255, 115);
+  border-radius: 50%;
+  background: red;
+}
